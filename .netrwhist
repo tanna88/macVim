@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/eastagile/.Trash/FunJS31'
+let g:netrw_dirhist_2='/Users/eastagile/code/flippii-mp/public/games/FunJS3'
+let g:netrw_dirhist_3='/Users/eastagile/code/flippii-mp/public/games/piiggii'
+let g:netrw_dirhist_4='/Users/eastagile/code/flippii-mp/public/games/flippii-mp'
